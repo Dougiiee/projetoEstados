@@ -43,7 +43,7 @@ Página web com alternância entre tema claro e escuro, com preferência salva n
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Dougiiee/NOME-DO-REPO.git
+git clone https://github.com/Dougiiee/projetoEstados
 ```
 
 2. Acesse a pasta do projeto:
